@@ -2,6 +2,13 @@
 
 ## Contacts:
 
-* __Location:__ Brest, Belarus
-* __Phone:__ +375 (29) 829-01-59
-* __Email:__ markpekun379@gmail.com
+- **Location:** _Brest, Belarus_
+- **Phone:** _+375 (29) 829-01-59_
+- **Email:** _markpekun379&#64;gmail&#46;com_
+- **Telegram:** [mp_kent](https://t.me/mp_kent "Write me")
+- **GitHub:** [nedo-proger](https://github.com/nedo-proger)
+- **Discord:** #mp_kent
+
+## About me
+
+My goal is to enter IT, to become a developer/programmer. My priorities are also to learn English. I hope that programming will become a hobby for me, and in the future the work will not only be an income.
