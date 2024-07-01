@@ -26,3 +26,14 @@ console.log('Hello, World!');
 ## Experience
 _I have no work experience, but I hope to have one soon_
 
+## Education
+* __University:__  _1st year student of the Belarusian State Technical University, Faculty of Electronic Information Systems_
+* Courses:
+   * Java, _[myIT School](https://myit.by/)_
+   * Web development, _[myIT School](https://myit.by/)_
+
+## English
+**A1**, *I’m starting to actively learn English, I hope to speak like a native speaker soon*
+
+
+
