@@ -11,4 +11,18 @@
 
 ## About me
 
-My goal is to enter IT, to become a developer/programmer. My priorities are also to learn English. I hope that programming will become a hobby for me, and in the future the work will not only be an income.
+My goal is to enter IT, to become a developer/programmer. My priorities are also to learn English. I hope that programming will become a hobby for me, and in the future work will not only be a means of earning money.
+
+## Skills
+* Html
+* CSS/SASS
+* Git
+* JavaScript (in processing...)
+
+## Code Example 
+```
+console.log('Hello, World!');
+```
+## Experience
+_I have no work experience, but I hope to have one soon_
+
