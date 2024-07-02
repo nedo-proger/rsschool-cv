@@ -1,3 +1,6 @@
+[![RS School logo](https://app.rs.school/static/images/logo-rsschool3.png)](https://rs.school/)
+
+
 # Mark Pekun
 
 ## Contacts:
@@ -40,5 +43,3 @@ _I have no work experience, but I hope to have one soon_
 ## English
 
 **A1**, _I’m starting to actively learn English, I hope to speak like a native speaker soon_
-
-[![RS School logo](https://app.rs.school/static/images/logo-rsschool3.png)](https://rs.school/)
