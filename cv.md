@@ -41,4 +41,4 @@ _I have no work experience, but I hope to have one soon_
 
 **A1**, _I’m starting to actively learn English, I hope to speak like a native speaker soon_
 
-[![RS School logo](img/rs_school_js.svgrs_school_js.svg)](https://rs.school/)
+[![RS School logo](https://app.rs.school/static/images/logo-rsschool3.png)](https://rs.school/)
